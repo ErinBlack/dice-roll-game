@@ -14,7 +14,7 @@ function Dice(sides) {
 
 Dice.prototype.roll = function diceRoll(){
   const randomNumber = Math.floor(Math.random() * this.sides) + 1;
-    return randomNumber;
+  return randomNumber;
 }; //end this.roll
 
 const dice = new Dice(6);
