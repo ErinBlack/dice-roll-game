@@ -4,6 +4,6 @@ This is a simple dice rolling application I created using Object Oriented Javasc
 ![Screenshot of Dice Roll Game](https://github.com/ErinBlack/dice-roll-game/blob/master/images/Screen%20Shot%202017-09-07%20at%207.46.25%20PM.png)
 
 ## Technologies Used
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
